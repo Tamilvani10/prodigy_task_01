@@ -1,14 +1,15 @@
 # PRODIGY_ML_01
-ML Internship at [Prodigy InfoTech](https://prodigyinfotech.dev) 
 
-This respository implements a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+**House Price Prediction using Linear Regression**
 
-## Description
-Managing the acutal problems which occurs, and coating the most relaibe cost is the major issue. By using machine learning this proble can be handled in a more easier and relaible manner with the regression techniques coded on thenm.
-The objective of this linear regression is to analyze the given dataset and creat the most prcise model.
+**OVERVIEW:**
+Welcome to the House Price Prediction repository, where we use machine learning techniques to predict house prices based on square footage, number of bedrooms, and bathrooms. This project focuses on leveraging linear regression to accurately estimate housing costs using a dataset sourced from the Kaggle Housing Prices Competition.
 
-## Dataset
-The dataset used in this project is the Housing Prices Competition dataset from Kaggle.
+**DATASET:**
+The dataset utilized in this project is sourced from Kaggle's Housing Prices Competition. It contains detailed information about various houses, including square footage, number of bedrooms, number of bathrooms, and corresponding sale prices.
 
-## Techniques
-The technique used here is linear regression which is used to estimate a linear relationship between prices of house based on their square footage and number of bedrooms and bathrooms.
+**TECHNIQUES:**
+We employ linear regression as the primary technique to establish a relationship between house prices and key features like square footage, bedrooms, and bathrooms. This approach enables us to create a reliable model for predicting house prices based on these critical variables.
+
+**PURPOSE:**
+The goal of this repository is to demonstrate the application of linear regression in predicting real estate prices, providing insights into how machine learning can enhance accuracy in housing market predictions.
